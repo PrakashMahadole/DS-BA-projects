@@ -1,2 +1,2 @@
-# DS-BA-projects
-These projects are related to Data science and Business Analytics, Industrial data is used to perform various operations
+# Uber Drive Python project
+The project is based on the trips made by Uber drivers. Here, we are analyzing different aspects of the trips by doing Exploratory Data Analysis.
